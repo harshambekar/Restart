@@ -1,0 +1,24 @@
+.container{
+    align-items: center;
+    
+  
+
+
+}
+
+.boxes{
+    height: 65px;
+    width: 65px;
+    display: flex;
+
+    border-radius: 10px;
+    background-color: rgb(205, 180, 42);
+    margin: 5px;
+}
+
+.board{
+    display: flex;
+    margin: auto;
+    height: 600px;
+    width: 600px;
+}
